@@ -77,3 +77,5 @@ This project is a wearable **Smart Mask** powered by an **ESP32 microcontroller*
 
 ## 📂 File Structure
 
+
+
